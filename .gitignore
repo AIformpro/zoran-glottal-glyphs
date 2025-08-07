@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# MacOS and general OS files
+.DS_Store
+
+# Archives
+*.zip
+*.tar.gz
